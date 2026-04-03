@@ -52,5 +52,4 @@ public class DateUtil {
         SimpleDateFormat sdf2 = new SimpleDateFormat( "yyyy-MM-dd" ) ;
         return sdf2.format( date1 ) ;
     }
-    
 }
