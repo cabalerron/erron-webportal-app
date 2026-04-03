@@ -1,0 +1,25 @@
+/*
+ * RM002
+ * Role Registration Repository Interface
+ *
+ * v 00.001 - 10/29/2024
+ *
+ * PIC: emonteverde
+ * 
+ */
+package ph.com.project01.webportal.repository;
+import ph.com.project01.webportal.model.FunctionMaster;
+import ph.com.project01.webportal.model.PermissionMaster;
+import ph.com.project01.webportal.model.RoleMaster;
+
+import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
+@Repository
+public interface RM002Repository {
+    List<FunctionMaster> getFunctionList();
+    String getNextRoleId();
+    RoleMaster getRoleMasterByRoleName(String roleName);
+    void insertRole(RoleMaster roleMaster, PermissionMaster permissionMaster);
+}

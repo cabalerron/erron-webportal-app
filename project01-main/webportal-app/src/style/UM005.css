@@ -1,0 +1,14 @@
+.changepass-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+}
+
+.form-margin {
+  margin-bottom: 1rem; 
+}
+
+.button-container {
+  display: flex;
+  justify-content: center; 
+}

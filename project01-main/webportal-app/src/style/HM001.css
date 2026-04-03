@@ -1,0 +1,39 @@
+.mainContainer{
+  margin: 20px;
+}
+
+.link_card {
+  margin: 20px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  cursor: pointer;
+  gap: 20px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centers items vertically */
+  justify-content: center; /* Centers items horizontally */
+  text-align: center; /* Centers the text */
+  margin-top: 10px;
+}
+.lnkUsers {
+  text-align: center; /* Centers the text */
+  margin-top: 10px;
+}
+
+.lnkRoles {
+  text-align: center; /* Centers the text */
+  margin-top: 10px;
+}
+.lnkNews {
+  text-align: center; /* Centers the text */
+  margin-top: 10px;
+}
+
+.lnkArticle {
+  margin-top: 50px;
+  margin-left: 20px;
+  padding: 20px;
+}

@@ -1,0 +1,35 @@
+.forgot-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; 
+  background-color: #f0f0f0; 
+}
+
+.forgot-paper {
+  padding: 2rem;
+  max-width: 400px; 
+  width: 100%; 
+}
+
+.page-title {
+  text-align: center; 
+  margin-bottom: 1.5rem; 
+}
+
+.form-margin {
+  margin-bottom: 1rem; 
+}
+
+.button-container {
+  display: flex;
+  justify-content: center; 
+}
+
+.error-message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}

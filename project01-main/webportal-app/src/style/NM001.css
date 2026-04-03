@@ -1,0 +1,39 @@
+.webportal_screen {
+    margin: 20px;
+  }
+  
+  .add_news_button {
+    float: right;
+    margin: 10px 50px;
+    padding: 15px 25px;
+  }
+  
+  .form_container {
+    display: flex;
+    gap: 20px;
+    margin: 10px 50px;
+  }
+  
+  .form_label {
+    margin: 10px;
+  }
+  
+  .btn {
+    display: flex;
+    align-items: flex-end;
+    flex-shrink: 0;
+  }
+  
+  .data_grid_container {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .data_grid_wrapper {
+    height: 400px;
+    width: 93%;
+    margin-top: 10px;
+  }
+  
