@@ -232,7 +232,7 @@ INSERT INTO project01.user_mst (
     update_id
 ) VALUES
 ('admin', '1', '$2a$12$iwDnfp4t.xhxw5kfgSB6/.LXpVT7RjfaxDYFQ3whoNwCfSNwrpO9e', 1, 1, 1, 1, 1, 'admin@example.com', 0, NULL, 0, NULL, NULL, 0, 'admin', 'admin'),
-('acsantos', '2', '$2a$12$zfquTivpUymZGJHlyfKFmOQVoR2QQI3v8BoDbb1gK31ybp4vYpP76', 1, 1, 1, 1, 2, 'ariescarlo15@example.com', 0, NULL, 0, NULL, NULL, 0, 'admin', 'admin'),
+('acsantos', '2', '$2a$12$zfquTivpUymZGJHlyfKFmOQVoR2QQI3v8BoDbb1gK31ybp4vYpP76', 1, 1, 1, 1, 2, 'admin1@example.com', 0, NULL, 0, NULL, NULL, 0, 'admin', 'admin'),
 ('smateo', '3', '$2a$12$w/TX1SxdxBc352sLY0ZnWOIqBiy6W/rVEeZ8op89yRaqmkFt0qcFK', 1, 1, 1, 1, 2, 'user2@example.com', 0, NULL, 0, NULL, NULL, 0, 'admin', 'admin'),
 ('gramirez', '4', '$2a$12$oAlCgEoSQFx8bvFleB46nOA0AsKJKBSO3PaRgH9P4IahODINifdjS', 1, 1, 1, 1, 2, 'user3@example.com', 0, NULL, 0, NULL, NULL, 0, 'admin', 'admin'),
 ('emonteverde', '5', '$2a$12$GItSCWL/SX2N3QI/gOGxr.DxmZc1H.4OsJwNL6z/xnB0JGztJeari', 1, 1, 1, 1, 2, 'user4@example.com', 0, NULL, 0, NULL, NULL, 0, 'admin', 'admin'),
